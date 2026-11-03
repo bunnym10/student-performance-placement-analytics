@@ -1,0 +1,501 @@
+student_id,student_name,department,cgpa,attendance,aptitude_score,technical_skills,internship,placement_status
+1001,Student_1,IT,7.53,59.07,66,8,No,Not Placed
+1002,Student_2,EEE,9.13,79.15,76,10,No,Not Placed
+1003,Student_3,ECE,6.6,71.07,66,9,No,Placed
+1004,Student_4,EEE,9.48,94.63,78,2,Yes,Placed
+1005,Student_5,EEE,6.95,90.87,73,6,Yes,Not Placed
+1006,Student_6,CSE-DS,5.05,67.09,85,4,No,Placed
+1007,Student_7,ECE,9.53,62.97,57,4,No,Placed
+1008,Student_8,ECE,5.46,68.98,35,5,Yes,Placed
+1009,Student_9,ECE,6.6,79.51,90,3,No,Placed
+1010,Student_10,EEE,9.75,63.4,49,1,Yes,Placed
+1011,Student_11,IT,9.75,81.21,31,8,Yes,Placed
+1012,Student_12,ECE,7.87,70.47,66,5,Yes,Placed
+1013,Student_13,EEE,8.16,77.6,49,3,No,Not Placed
+1014,Student_14,CSE-DS,7.24,71.81,55,10,Yes,Placed
+1015,Student_15,IT,6.47,64.72,58,7,No,Not Placed
+1016,Student_16,CSE-DS,6.64,97.42,30,7,Yes,Not Placed
+1017,Student_17,IT,8.36,88.18,64,1,No,Placed
+1018,Student_18,EEE,8.76,57.01,99,9,No,Placed
+1019,Student_19,CSE,8.96,93.42,88,2,No,Placed
+1020,Student_20,IT,8.95,74.37,98,5,Yes,Placed
+1021,Student_21,CSE-DS,5.46,94.73,62,5,Yes,Not Placed
+1022,Student_22,EEE,7.47,89.99,80,8,No,Placed
+1023,Student_23,IT,5.29,71.26,41,8,No,Not Placed
+1024,Student_24,CSE,7.75,51.12,49,7,No,Placed
+1025,Student_25,CSE,7.21,63.43,82,7,Yes,Placed
+1026,Student_26,ECE,9.44,77.08,72,6,Yes,Placed
+1027,Student_27,ECE,6.75,81.67,79,6,Yes,Placed
+1028,Student_28,CSE-DS,5.59,62.89,58,9,Yes,Placed
+1029,Student_29,IT,5.71,56.97,86,6,No,Placed
+1030,Student_30,IT,8.81,91.75,68,2,No,Placed
+1031,Student_31,ECE,8.09,99.22,85,2,Yes,Placed
+1032,Student_32,IT,5.51,76.28,72,5,Yes,Not Placed
+1033,Student_33,IT,5.42,58.58,79,4,No,Placed
+1034,Student_34,CSE,8.5,63.62,52,2,Yes,Not Placed
+1035,Student_35,ECE,5.36,50.92,73,3,Yes,Not Placed
+1036,Student_36,EEE,9.11,95.71,67,7,Yes,Not Placed
+1037,Student_37,ECE,8.53,55.89,52,8,Yes,Placed
+1038,Student_38,EEE,5.41,78.83,74,6,Yes,Not Placed
+1039,Student_39,CSE,5.42,63.7,81,5,Yes,Placed
+1040,Student_40,CSE-DS,9.93,77.71,79,1,No,Placed
+1041,Student_41,IT,6.87,82.57,37,8,Yes,Placed
+1042,Student_42,CSE,6.85,91.49,30,3,Yes,Not Placed
+1043,Student_43,IT,9.06,60.32,37,6,No,Placed
+1044,Student_44,CSE-DS,9.74,50.55,58,3,No,Not Placed
+1045,Student_45,CSE-DS,9.93,56.84,34,7,No,Placed
+1046,Student_46,CSE,8.77,95.0,76,7,Yes,Not Placed
+1047,Student_47,CSE-DS,6.88,93.69,63,9,No,Not Placed
+1048,Student_48,EEE,5.42,79.87,94,5,Yes,Placed
+1049,Student_49,CSE-DS,8.89,80.03,84,8,Yes,Not Placed
+1050,Student_50,IT,7.79,83.25,72,10,Yes,Placed
+1051,Student_51,IT,7.12,58.77,59,10,No,Placed
+1052,Student_52,IT,9.53,95.72,46,8,No,Placed
+1053,Student_53,IT,5.56,70.94,55,1,No,Placed
+1054,Student_54,EEE,7.46,69.16,37,5,No,Placed
+1055,Student_55,ECE,5.06,75.95,76,3,No,Placed
+1056,Student_56,CSE,7.34,52.35,75,1,Yes,Placed
+1057,Student_57,IT,5.28,58.31,97,4,Yes,Not Placed
+1058,Student_58,CSE-DS,5.59,86.9,62,8,Yes,Not Placed
+1059,Student_59,IT,5.59,54.14,30,3,Yes,Not Placed
+1060,Student_60,CSE-DS,8.25,80.16,48,10,No,Not Placed
+1061,Student_61,CSE-DS,8.73,62.27,60,2,No,Not Placed
+1062,Student_62,IT,7.92,69.46,43,9,Yes,Placed
+1063,Student_63,EEE,9.81,64.43,82,10,No,Placed
+1064,Student_64,CSE-DS,6.87,67.78,77,5,No,Not Placed
+1065,Student_65,CSE-DS,6.43,85.95,98,7,Yes,Placed
+1066,Student_66,IT,9.34,64.86,91,2,Yes,Not Placed
+1067,Student_67,CSE-DS,6.12,78.32,95,9,No,Placed
+1068,Student_68,CSE-DS,9.82,73.8,93,9,No,Placed
+1069,Student_69,IT,5.06,83.18,99,4,Yes,Placed
+1070,Student_70,IT,9.85,96.84,92,4,Yes,Placed
+1071,Student_71,CSE,5.22,86.63,62,6,Yes,Placed
+1072,Student_72,EEE,9.46,60.75,70,10,No,Not Placed
+1073,Student_73,EEE,7.64,51.56,77,10,Yes,Placed
+1074,Student_74,CSE-DS,9.96,63.11,42,10,Yes,Placed
+1075,Student_75,EEE,5.37,79.75,60,6,No,Not Placed
+1076,Student_76,CSE-DS,7.77,52.57,97,1,No,Not Placed
+1077,Student_77,CSE,9.85,74.82,33,9,No,Placed
+1078,Student_78,IT,7.62,79.84,48,2,No,Not Placed
+1079,Student_79,IT,8.15,66.71,99,5,No,Placed
+1080,Student_80,IT,8.48,88.55,42,9,Yes,Placed
+1081,Student_81,EEE,7.27,55.33,52,4,Yes,Placed
+1082,Student_82,CSE,8.14,53.76,30,3,No,Not Placed
+1083,Student_83,EEE,7.92,86.41,83,7,No,Not Placed
+1084,Student_84,EEE,9.51,74.77,100,6,No,Placed
+1085,Student_85,CSE,5.23,84.42,44,8,No,Not Placed
+1086,Student_86,CSE,6.4,71.74,94,3,No,Placed
+1087,Student_87,CSE,9.75,62.32,100,5,Yes,Placed
+1088,Student_88,CSE,9.45,90.96,44,10,Yes,Placed
+1089,Student_89,IT,7.28,89.97,50,4,Yes,Placed
+1090,Student_90,ECE,8.1,84.73,48,4,Yes,Placed
+1091,Student_91,ECE,6.39,63.61,89,4,No,Placed
+1092,Student_92,CSE,5.94,79.51,62,10,Yes,Not Placed
+1093,Student_93,ECE,7.32,68.05,78,8,No,Placed
+1094,Student_94,ECE,6.77,54.58,64,6,No,Placed
+1095,Student_95,CSE,7.92,95.87,73,3,No,Placed
+1096,Student_96,ECE,5.39,56.84,40,10,Yes,Placed
+1097,Student_97,EEE,9.87,97.51,95,5,No,Placed
+1098,Student_98,CSE-DS,9.93,72.3,75,6,Yes,Not Placed
+1099,Student_99,CSE-DS,8.49,59.26,38,5,Yes,Placed
+1100,Student_100,CSE,7.68,77.1,32,6,No,Not Placed
+1101,Student_101,IT,6.55,93.65,55,8,No,Not Placed
+1102,Student_102,CSE,9.07,86.61,77,7,No,Placed
+1103,Student_103,IT,8.42,90.33,95,5,Yes,Not Placed
+1104,Student_104,CSE-DS,5.81,82.94,99,10,No,Placed
+1105,Student_105,CSE,9.55,84.61,57,6,Yes,Placed
+1106,Student_106,EEE,9.11,92.46,55,4,No,Placed
+1107,Student_107,ECE,9.75,62.48,54,9,No,Placed
+1108,Student_108,IT,8.63,74.47,41,4,Yes,Placed
+1109,Student_109,ECE,8.07,61.06,34,1,Yes,Placed
+1110,Student_110,ECE,7.09,99.38,77,7,Yes,Placed
+1111,Student_111,CSE,9.66,97.2,66,7,Yes,Placed
+1112,Student_112,ECE,9.33,51.97,73,4,Yes,Placed
+1113,Student_113,EEE,5.23,85.28,44,3,Yes,Not Placed
+1114,Student_114,ECE,5.13,96.26,72,8,No,Not Placed
+1115,Student_115,CSE,6.88,59.03,77,5,No,Placed
+1116,Student_116,EEE,9.05,78.4,99,10,Yes,Placed
+1117,Student_117,CSE-DS,9.94,95.77,75,7,No,Not Placed
+1118,Student_118,ECE,5.75,51.7,72,4,Yes,Not Placed
+1119,Student_119,CSE,7.97,84.87,50,4,No,Not Placed
+1120,Student_120,CSE-DS,6.9,64.87,52,8,No,Placed
+1121,Student_121,CSE-DS,9.85,96.22,76,8,Yes,Placed
+1122,Student_122,IT,9.21,98.55,44,2,Yes,Placed
+1123,Student_123,EEE,9.19,97.21,54,2,Yes,Placed
+1124,Student_124,ECE,7.34,73.71,65,3,No,Not Placed
+1125,Student_125,CSE,7.07,93.1,80,3,Yes,Not Placed
+1126,Student_126,IT,6.37,92.23,44,1,No,Placed
+1127,Student_127,EEE,5.28,65.96,97,3,Yes,Not Placed
+1128,Student_128,IT,9.32,91.45,50,6,No,Placed
+1129,Student_129,EEE,9.06,51.85,42,8,No,Placed
+1130,Student_130,EEE,10.0,79.81,48,10,Yes,Placed
+1131,Student_131,ECE,9.98,61.5,63,6,No,Not Placed
+1132,Student_132,EEE,7.78,56.03,97,5,No,Placed
+1133,Student_133,IT,8.84,53.85,81,4,Yes,Not Placed
+1134,Student_134,EEE,9.72,84.81,56,3,No,Not Placed
+1135,Student_135,ECE,9.25,66.99,58,4,Yes,Placed
+1136,Student_136,ECE,6.24,86.24,57,7,Yes,Placed
+1137,Student_137,IT,7.25,53.27,64,1,Yes,Not Placed
+1138,Student_138,CSE-DS,5.65,65.76,37,7,Yes,Placed
+1139,Student_139,CSE-DS,9.77,76.97,45,1,No,Not Placed
+1140,Student_140,EEE,8.03,89.54,65,2,No,Not Placed
+1141,Student_141,CSE,6.14,65.94,59,4,No,Placed
+1142,Student_142,EEE,8.36,81.29,47,1,Yes,Placed
+1143,Student_143,IT,8.09,94.3,31,9,No,Not Placed
+1144,Student_144,IT,6.79,80.79,78,6,No,Not Placed
+1145,Student_145,IT,5.57,61.65,33,1,Yes,Placed
+1146,Student_146,IT,8.36,51.22,36,1,Yes,Placed
+1147,Student_147,IT,7.6,93.5,68,6,No,Placed
+1148,Student_148,ECE,8.86,51.06,42,4,Yes,Not Placed
+1149,Student_149,CSE-DS,7.6,93.74,60,4,Yes,Not Placed
+1150,Student_150,IT,9.26,76.45,100,6,Yes,Not Placed
+1151,Student_151,CSE,7.76,96.95,92,7,Yes,Placed
+1152,Student_152,CSE,7.8,89.94,85,9,No,Placed
+1153,Student_153,CSE,9.38,99.9,71,10,Yes,Not Placed
+1154,Student_154,CSE,7.02,67.54,90,5,Yes,Placed
+1155,Student_155,ECE,5.67,88.36,71,9,Yes,Placed
+1156,Student_156,CSE,5.14,70.1,85,4,Yes,Placed
+1157,Student_157,IT,8.78,73.99,65,10,Yes,Not Placed
+1158,Student_158,EEE,8.1,81.38,97,2,Yes,Not Placed
+1159,Student_159,CSE,8.52,93.68,36,3,Yes,Placed
+1160,Student_160,ECE,6.06,99.2,83,1,Yes,Placed
+1161,Student_161,ECE,5.68,88.41,30,6,No,Placed
+1162,Student_162,CSE,5.07,70.89,73,6,Yes,Not Placed
+1163,Student_163,EEE,6.75,71.07,74,1,No,Placed
+1164,Student_164,CSE,7.95,86.88,76,3,Yes,Placed
+1165,Student_165,ECE,6.96,61.94,42,5,Yes,Placed
+1166,Student_166,CSE-DS,7.19,55.52,51,3,Yes,Not Placed
+1167,Student_167,IT,9.52,67.73,50,10,Yes,Placed
+1168,Student_168,ECE,6.74,64.36,38,3,No,Placed
+1169,Student_169,CSE,7.57,64.82,55,10,Yes,Placed
+1170,Student_170,IT,8.92,61.68,38,3,Yes,Not Placed
+1171,Student_171,CSE,6.98,52.1,44,5,No,Placed
+1172,Student_172,CSE,8.11,50.89,39,5,No,Not Placed
+1173,Student_173,CSE-DS,9.31,99.39,71,4,Yes,Placed
+1174,Student_174,IT,9.75,71.39,53,1,No,Placed
+1175,Student_175,IT,5.74,69.22,78,5,No,Placed
+1176,Student_176,CSE-DS,9.63,83.98,55,10,No,Not Placed
+1177,Student_177,ECE,7.46,60.91,66,5,Yes,Placed
+1178,Student_178,CSE,6.29,97.5,97,4,Yes,Not Placed
+1179,Student_179,EEE,7.3,89.32,79,6,Yes,Not Placed
+1180,Student_180,CSE,9.9,54.47,53,10,No,Placed
+1181,Student_181,CSE,7.46,70.88,48,4,Yes,Not Placed
+1182,Student_182,ECE,6.64,93.96,89,7,No,Not Placed
+1183,Student_183,CSE,8.17,97.24,68,7,Yes,Placed
+1184,Student_184,CSE-DS,6.2,73.37,47,2,Yes,Placed
+1185,Student_185,CSE-DS,5.38,80.67,48,3,No,Not Placed
+1186,Student_186,IT,5.64,58.35,65,1,Yes,Placed
+1187,Student_187,EEE,5.64,99.56,84,8,No,Not Placed
+1188,Student_188,CSE,5.76,61.58,98,9,No,Not Placed
+1189,Student_189,CSE,5.69,97.14,76,4,Yes,Placed
+1190,Student_190,ECE,8.2,82.48,78,6,No,Not Placed
+1191,Student_191,CSE-DS,5.91,80.39,62,9,Yes,Placed
+1192,Student_192,EEE,6.73,75.63,50,6,Yes,Placed
+1193,Student_193,IT,9.48,61.53,51,9,No,Placed
+1194,Student_194,CSE-DS,7.37,58.83,77,4,Yes,Placed
+1195,Student_195,IT,8.34,61.02,66,8,No,Not Placed
+1196,Student_196,ECE,5.86,59.32,44,9,Yes,Not Placed
+1197,Student_197,ECE,5.96,88.98,64,4,Yes,Not Placed
+1198,Student_198,CSE,5.2,67.51,100,5,Yes,Placed
+1199,Student_199,EEE,5.84,52.89,61,8,Yes,Placed
+1200,Student_200,IT,6.39,98.46,40,10,Yes,Not Placed
+1201,Student_201,CSE-DS,5.89,94.19,39,6,No,Placed
+1202,Student_202,ECE,5.44,96.39,86,7,No,Not Placed
+1203,Student_203,CSE,5.6,99.75,54,3,No,Not Placed
+1204,Student_204,CSE,7.3,58.69,31,7,No,Not Placed
+1205,Student_205,IT,6.03,69.81,93,8,No,Not Placed
+1206,Student_206,ECE,6.82,87.91,64,10,No,Placed
+1207,Student_207,EEE,7.52,84.8,36,6,Yes,Not Placed
+1208,Student_208,ECE,8.45,57.69,47,10,Yes,Placed
+1209,Student_209,IT,5.2,90.79,96,9,No,Not Placed
+1210,Student_210,IT,9.0,61.22,71,6,No,Placed
+1211,Student_211,ECE,8.14,61.19,68,9,Yes,Not Placed
+1212,Student_212,IT,5.41,76.85,70,4,Yes,Not Placed
+1213,Student_213,ECE,9.37,79.65,53,8,Yes,Placed
+1214,Student_214,CSE-DS,9.6,79.0,89,4,No,Placed
+1215,Student_215,ECE,5.31,54.57,75,2,No,Not Placed
+1216,Student_216,ECE,6.38,93.87,48,10,No,Placed
+1217,Student_217,IT,9.03,63.28,97,9,Yes,Placed
+1218,Student_218,IT,8.74,56.48,71,5,Yes,Placed
+1219,Student_219,CSE,5.92,94.44,61,4,No,Placed
+1220,Student_220,CSE,6.05,97.78,68,2,No,Not Placed
+1221,Student_221,CSE-DS,6.85,93.11,65,1,Yes,Placed
+1222,Student_222,CSE,7.42,90.48,65,7,Yes,Placed
+1223,Student_223,ECE,8.09,82.76,32,6,Yes,Placed
+1224,Student_224,IT,6.84,77.54,37,2,Yes,Placed
+1225,Student_225,CSE,7.31,54.35,99,8,No,Placed
+1226,Student_226,CSE,8.74,70.42,70,4,Yes,Placed
+1227,Student_227,CSE-DS,5.18,68.63,97,8,Yes,Placed
+1228,Student_228,CSE-DS,6.26,62.99,42,7,Yes,Placed
+1229,Student_229,ECE,8.57,86.17,78,5,No,Not Placed
+1230,Student_230,IT,9.48,74.79,89,10,No,Placed
+1231,Student_231,CSE-DS,7.56,54.05,31,10,Yes,Placed
+1232,Student_232,CSE,7.66,61.01,89,8,Yes,Placed
+1233,Student_233,IT,5.54,84.16,34,9,Yes,Placed
+1234,Student_234,IT,7.24,53.81,73,5,No,Not Placed
+1235,Student_235,CSE,7.66,92.56,56,10,No,Placed
+1236,Student_236,CSE-DS,6.21,74.76,61,5,No,Not Placed
+1237,Student_237,CSE,6.35,74.03,50,2,Yes,Not Placed
+1238,Student_238,IT,6.89,79.62,37,5,No,Placed
+1239,Student_239,EEE,5.1,91.23,79,3,Yes,Not Placed
+1240,Student_240,EEE,6.61,67.39,96,7,Yes,Placed
+1241,Student_241,ECE,6.06,83.9,73,10,Yes,Placed
+1242,Student_242,CSE,6.64,78.29,87,5,No,Placed
+1243,Student_243,CSE,5.6,63.35,32,8,Yes,Placed
+1244,Student_244,ECE,9.45,93.93,99,1,No,Not Placed
+1245,Student_245,ECE,7.97,89.87,31,3,No,Not Placed
+1246,Student_246,ECE,8.4,82.92,73,3,Yes,Not Placed
+1247,Student_247,IT,8.95,92.53,31,9,Yes,Placed
+1248,Student_248,CSE,7.49,93.36,64,5,No,Placed
+1249,Student_249,IT,5.43,85.42,59,9,Yes,Placed
+1250,Student_250,ECE,7.69,91.85,37,9,No,Not Placed
+1251,Student_251,CSE,7.93,84.87,51,1,Yes,Placed
+1252,Student_252,IT,8.73,84.01,73,2,No,Not Placed
+1253,Student_253,IT,7.16,80.93,87,5,No,Placed
+1254,Student_254,ECE,5.64,87.64,65,4,No,Placed
+1255,Student_255,CSE,6.42,57.93,98,10,No,Not Placed
+1256,Student_256,ECE,6.82,94.04,60,9,Yes,Placed
+1257,Student_257,CSE,8.23,93.59,76,7,Yes,Placed
+1258,Student_258,EEE,7.85,51.46,84,6,No,Not Placed
+1259,Student_259,CSE-DS,6.78,91.29,91,7,No,Placed
+1260,Student_260,CSE-DS,9.93,56.44,59,1,Yes,Not Placed
+1261,Student_261,CSE-DS,8.03,66.76,84,1,Yes,Placed
+1262,Student_262,ECE,6.19,87.18,45,8,Yes,Not Placed
+1263,Student_263,EEE,5.51,58.04,41,2,Yes,Not Placed
+1264,Student_264,CSE,5.76,90.9,46,10,Yes,Placed
+1265,Student_265,IT,6.23,91.61,45,9,Yes,Placed
+1266,Student_266,CSE,5.8,75.37,41,7,No,Not Placed
+1267,Student_267,IT,5.93,50.32,37,6,Yes,Placed
+1268,Student_268,CSE,6.43,64.35,32,1,Yes,Not Placed
+1269,Student_269,EEE,5.87,80.85,45,1,No,Placed
+1270,Student_270,IT,9.48,99.06,59,2,Yes,Placed
+1271,Student_271,ECE,5.4,81.59,52,6,Yes,Not Placed
+1272,Student_272,CSE,7.62,62.99,34,6,Yes,Not Placed
+1273,Student_273,CSE,7.05,81.7,94,2,Yes,Placed
+1274,Student_274,IT,9.91,77.0,59,1,Yes,Not Placed
+1275,Student_275,ECE,5.56,88.99,50,10,No,Placed
+1276,Student_276,ECE,6.99,55.35,99,5,Yes,Placed
+1277,Student_277,EEE,9.85,88.05,51,5,No,Not Placed
+1278,Student_278,ECE,9.33,77.06,61,2,No,Not Placed
+1279,Student_279,ECE,9.09,98.15,62,6,Yes,Not Placed
+1280,Student_280,ECE,6.29,67.09,45,9,No,Placed
+1281,Student_281,CSE-DS,5.85,81.63,67,2,Yes,Placed
+1282,Student_282,EEE,8.34,96.6,43,10,No,Placed
+1283,Student_283,CSE,9.65,55.13,65,2,No,Placed
+1284,Student_284,IT,7.78,96.86,52,3,Yes,Placed
+1285,Student_285,CSE,7.86,84.39,95,7,Yes,Not Placed
+1286,Student_286,EEE,6.4,53.39,31,6,Yes,Placed
+1287,Student_287,IT,8.85,65.05,94,8,Yes,Not Placed
+1288,Student_288,EEE,5.94,85.41,96,8,Yes,Not Placed
+1289,Student_289,ECE,6.62,53.37,81,6,No,Placed
+1290,Student_290,IT,7.13,79.11,91,10,No,Not Placed
+1291,Student_291,ECE,7.54,67.29,52,3,No,Not Placed
+1292,Student_292,CSE,6.21,81.05,55,3,No,Placed
+1293,Student_293,CSE,5.57,52.29,97,1,No,Placed
+1294,Student_294,IT,8.05,93.58,84,7,No,Placed
+1295,Student_295,IT,6.44,98.67,35,5,No,Placed
+1296,Student_296,EEE,7.91,98.44,64,4,Yes,Not Placed
+1297,Student_297,EEE,5.77,87.48,51,10,Yes,Placed
+1298,Student_298,ECE,7.41,56.5,72,4,No,Not Placed
+1299,Student_299,IT,7.66,87.91,44,4,No,Not Placed
+1300,Student_300,CSE,5.26,51.23,89,6,Yes,Placed
+1301,Student_301,EEE,6.68,51.11,41,8,Yes,Not Placed
+1302,Student_302,EEE,5.67,66.18,78,8,Yes,Placed
+1303,Student_303,CSE,5.32,74.43,71,5,Yes,Placed
+1304,Student_304,EEE,9.95,88.52,67,6,No,Not Placed
+1305,Student_305,ECE,6.61,84.16,74,4,Yes,Placed
+1306,Student_306,IT,9.05,72.3,64,9,No,Placed
+1307,Student_307,CSE,6.27,63.68,59,8,No,Placed
+1308,Student_308,IT,8.41,99.86,59,10,No,Placed
+1309,Student_309,EEE,8.8,71.31,35,10,Yes,Not Placed
+1310,Student_310,EEE,7.98,72.57,96,1,Yes,Placed
+1311,Student_311,CSE,7.36,58.18,36,2,No,Placed
+1312,Student_312,ECE,7.06,89.74,81,9,No,Placed
+1313,Student_313,CSE-DS,6.74,84.68,43,8,No,Not Placed
+1314,Student_314,CSE,9.65,61.04,44,3,Yes,Placed
+1315,Student_315,CSE-DS,9.15,54.12,50,8,No,Placed
+1316,Student_316,CSE-DS,9.83,84.02,64,1,Yes,Placed
+1317,Student_317,ECE,5.62,82.73,95,10,No,Placed
+1318,Student_318,CSE-DS,8.65,63.66,31,4,No,Not Placed
+1319,Student_319,CSE-DS,9.69,97.54,64,3,No,Not Placed
+1320,Student_320,ECE,5.91,57.55,49,6,Yes,Placed
+1321,Student_321,CSE-DS,5.33,71.62,39,7,Yes,Not Placed
+1322,Student_322,CSE-DS,8.71,97.18,54,4,No,Placed
+1323,Student_323,CSE-DS,7.87,70.99,95,7,Yes,Not Placed
+1324,Student_324,CSE,9.21,81.93,54,9,No,Not Placed
+1325,Student_325,CSE,5.7,69.88,83,2,Yes,Placed
+1326,Student_326,CSE,8.98,63.71,62,3,Yes,Not Placed
+1327,Student_327,ECE,6.01,99.2,65,5,Yes,Not Placed
+1328,Student_328,EEE,5.82,70.47,43,3,No,Placed
+1329,Student_329,CSE-DS,5.82,94.7,94,8,Yes,Placed
+1330,Student_330,CSE-DS,9.07,61.5,83,10,Yes,Placed
+1331,Student_331,ECE,8.33,60.66,81,8,No,Not Placed
+1332,Student_332,CSE-DS,7.62,51.56,32,8,No,Not Placed
+1333,Student_333,CSE,6.79,82.58,70,9,No,Not Placed
+1334,Student_334,EEE,9.39,68.43,35,4,No,Not Placed
+1335,Student_335,IT,6.96,93.22,54,5,Yes,Placed
+1336,Student_336,CSE-DS,9.08,73.66,42,5,Yes,Not Placed
+1337,Student_337,CSE,7.2,98.41,37,8,Yes,Not Placed
+1338,Student_338,IT,6.88,59.28,50,7,Yes,Placed
+1339,Student_339,EEE,7.31,93.43,97,9,Yes,Placed
+1340,Student_340,IT,6.51,88.83,54,8,No,Not Placed
+1341,Student_341,CSE,8.74,88.55,97,2,Yes,Placed
+1342,Student_342,IT,7.51,92.24,74,10,Yes,Not Placed
+1343,Student_343,ECE,6.16,88.05,89,4,Yes,Placed
+1344,Student_344,IT,9.5,81.31,41,6,No,Placed
+1345,Student_345,CSE-DS,6.92,56.56,61,2,No,Not Placed
+1346,Student_346,CSE-DS,7.72,51.63,42,7,Yes,Placed
+1347,Student_347,ECE,9.53,96.04,60,3,No,Placed
+1348,Student_348,CSE,8.12,80.83,49,3,No,Placed
+1349,Student_349,CSE-DS,5.58,89.83,47,2,No,Not Placed
+1350,Student_350,EEE,9.7,74.08,89,8,No,Placed
+1351,Student_351,CSE-DS,8.14,55.87,92,6,No,Not Placed
+1352,Student_352,CSE-DS,6.67,56.26,35,1,No,Placed
+1353,Student_353,CSE,5.7,84.28,61,1,No,Not Placed
+1354,Student_354,IT,8.97,71.52,72,7,Yes,Not Placed
+1355,Student_355,CSE-DS,8.1,60.03,31,8,Yes,Placed
+1356,Student_356,ECE,7.67,74.58,89,5,No,Placed
+1357,Student_357,IT,9.47,53.21,52,5,Yes,Placed
+1358,Student_358,EEE,8.94,79.1,60,4,Yes,Placed
+1359,Student_359,CSE,5.76,63.45,34,6,No,Placed
+1360,Student_360,EEE,6.56,89.88,63,6,Yes,Placed
+1361,Student_361,IT,6.24,65.52,39,3,No,Placed
+1362,Student_362,IT,8.72,72.76,31,9,No,Placed
+1363,Student_363,IT,5.17,50.58,40,7,No,Placed
+1364,Student_364,EEE,7.85,53.62,79,1,Yes,Placed
+1365,Student_365,IT,8.81,69.62,60,7,Yes,Not Placed
+1366,Student_366,EEE,9.38,74.0,85,5,Yes,Placed
+1367,Student_367,IT,6.71,80.0,38,5,Yes,Placed
+1368,Student_368,ECE,9.11,64.58,50,2,No,Placed
+1369,Student_369,IT,5.55,84.75,57,4,No,Not Placed
+1370,Student_370,EEE,9.23,93.01,91,6,Yes,Not Placed
+1371,Student_371,CSE-DS,5.64,88.99,36,10,No,Not Placed
+1372,Student_372,IT,6.99,51.98,45,7,No,Not Placed
+1373,Student_373,CSE-DS,8.99,74.03,33,5,Yes,Placed
+1374,Student_374,ECE,5.75,55.25,33,9,No,Not Placed
+1375,Student_375,CSE,6.15,62.1,69,3,Yes,Not Placed
+1376,Student_376,ECE,8.61,99.33,46,1,No,Placed
+1377,Student_377,IT,8.6,57.12,81,4,Yes,Not Placed
+1378,Student_378,CSE-DS,8.21,74.94,81,9,No,Placed
+1379,Student_379,CSE-DS,8.47,80.91,65,4,No,Not Placed
+1380,Student_380,EEE,7.71,85.12,67,2,Yes,Placed
+1381,Student_381,CSE-DS,6.26,77.98,79,10,Yes,Placed
+1382,Student_382,EEE,6.73,50.49,92,5,Yes,Not Placed
+1383,Student_383,CSE,5.91,66.32,92,3,Yes,Placed
+1384,Student_384,IT,9.54,75.89,91,9,No,Placed
+1385,Student_385,EEE,7.92,54.39,36,4,No,Placed
+1386,Student_386,CSE,7.0,67.53,56,6,Yes,Not Placed
+1387,Student_387,CSE-DS,7.31,51.66,43,2,No,Placed
+1388,Student_388,CSE-DS,9.74,53.93,100,6,Yes,Placed
+1389,Student_389,CSE,5.77,69.85,34,3,Yes,Not Placed
+1390,Student_390,CSE-DS,7.93,56.64,84,9,No,Not Placed
+1391,Student_391,CSE,7.53,78.38,31,2,No,Placed
+1392,Student_392,EEE,8.06,84.47,91,9,Yes,Not Placed
+1393,Student_393,EEE,5.09,90.03,50,5,Yes,Not Placed
+1394,Student_394,CSE,9.36,60.01,50,8,Yes,Not Placed
+1395,Student_395,EEE,9.66,58.37,39,2,No,Placed
+1396,Student_396,EEE,7.83,55.23,87,6,No,Placed
+1397,Student_397,EEE,8.48,81.82,68,3,No,Placed
+1398,Student_398,ECE,9.61,85.32,34,10,No,Placed
+1399,Student_399,IT,8.54,51.58,94,5,Yes,Placed
+1400,Student_400,CSE-DS,5.76,96.81,42,8,Yes,Placed
+1401,Student_401,ECE,7.88,52.6,82,10,Yes,Placed
+1402,Student_402,EEE,8.03,77.06,74,1,Yes,Placed
+1403,Student_403,CSE,7.12,85.45,61,5,Yes,Placed
+1404,Student_404,EEE,8.68,93.55,65,3,Yes,Not Placed
+1405,Student_405,IT,9.67,85.7,89,4,No,Placed
+1406,Student_406,EEE,9.63,90.09,40,2,No,Placed
+1407,Student_407,CSE,7.25,66.97,92,9,Yes,Not Placed
+1408,Student_408,IT,5.57,90.74,50,3,Yes,Placed
+1409,Student_409,EEE,9.92,54.01,81,2,No,Not Placed
+1410,Student_410,IT,9.19,94.74,84,10,No,Not Placed
+1411,Student_411,CSE-DS,5.62,77.38,55,9,No,Placed
+1412,Student_412,CSE-DS,9.6,90.86,97,7,No,Not Placed
+1413,Student_413,EEE,9.35,72.62,63,6,Yes,Placed
+1414,Student_414,IT,7.59,82.18,81,1,Yes,Placed
+1415,Student_415,CSE,7.96,76.32,81,5,Yes,Placed
+1416,Student_416,EEE,7.0,86.58,58,3,Yes,Placed
+1417,Student_417,CSE-DS,5.27,54.08,67,1,Yes,Not Placed
+1418,Student_418,CSE-DS,6.68,53.02,71,4,No,Placed
+1419,Student_419,EEE,9.01,62.36,50,2,Yes,Placed
+1420,Student_420,IT,5.02,57.98,71,2,No,Placed
+1421,Student_421,CSE-DS,6.67,93.59,42,3,Yes,Placed
+1422,Student_422,IT,6.99,60.96,93,8,Yes,Placed
+1423,Student_423,CSE-DS,7.69,98.79,46,8,Yes,Placed
+1424,Student_424,CSE-DS,9.6,66.84,38,7,Yes,Not Placed
+1425,Student_425,ECE,6.73,59.11,70,6,Yes,Placed
+1426,Student_426,CSE-DS,6.73,89.48,30,9,No,Placed
+1427,Student_427,CSE,8.69,82.94,31,4,No,Placed
+1428,Student_428,EEE,7.26,74.91,89,1,No,Placed
+1429,Student_429,EEE,6.12,77.77,77,8,Yes,Not Placed
+1430,Student_430,IT,7.26,85.96,58,7,Yes,Placed
+1431,Student_431,CSE-DS,5.7,61.42,39,7,No,Placed
+1432,Student_432,CSE,5.88,99.82,87,3,Yes,Placed
+1433,Student_433,IT,7.49,98.74,89,4,Yes,Not Placed
+1434,Student_434,ECE,7.09,82.52,50,10,No,Placed
+1435,Student_435,IT,9.57,59.98,57,9,Yes,Placed
+1436,Student_436,IT,6.81,84.01,63,6,No,Not Placed
+1437,Student_437,CSE-DS,7.9,53.61,37,5,Yes,Placed
+1438,Student_438,ECE,8.16,51.53,88,3,No,Not Placed
+1439,Student_439,IT,5.07,62.88,78,9,Yes,Not Placed
+1440,Student_440,CSE,8.32,73.13,46,5,Yes,Placed
+1441,Student_441,CSE,5.89,93.41,89,5,No,Placed
+1442,Student_442,EEE,9.81,86.36,74,4,Yes,Placed
+1443,Student_443,ECE,5.74,87.14,98,4,Yes,Placed
+1444,Student_444,ECE,7.07,71.27,61,1,No,Not Placed
+1445,Student_445,EEE,5.43,67.3,73,7,Yes,Placed
+1446,Student_446,IT,9.98,68.55,94,9,No,Placed
+1447,Student_447,ECE,7.51,99.38,37,3,Yes,Not Placed
+1448,Student_448,CSE,7.98,52.01,72,2,Yes,Placed
+1449,Student_449,CSE,5.34,93.35,30,3,Yes,Placed
+1450,Student_450,CSE-DS,8.75,78.93,80,1,Yes,Placed
+1451,Student_451,ECE,6.05,71.93,53,6,No,Placed
+1452,Student_452,IT,9.49,86.26,53,7,Yes,Not Placed
+1453,Student_453,EEE,6.03,74.33,46,2,No,Placed
+1454,Student_454,EEE,5.95,93.67,34,8,Yes,Placed
+1455,Student_455,IT,5.18,95.04,49,6,Yes,Placed
+1456,Student_456,CSE-DS,7.36,71.09,50,4,Yes,Placed
+1457,Student_457,EEE,7.82,63.84,87,5,Yes,Placed
+1458,Student_458,ECE,5.33,79.62,60,8,No,Placed
+1459,Student_459,CSE-DS,8.88,95.62,40,3,No,Placed
+1460,Student_460,ECE,7.27,60.53,81,3,No,Not Placed
+1461,Student_461,CSE,7.62,81.15,44,4,No,Placed
+1462,Student_462,CSE-DS,7.2,81.58,36,1,Yes,Placed
+1463,Student_463,EEE,7.0,86.66,57,9,No,Placed
+1464,Student_464,CSE-DS,7.8,56.58,80,8,No,Not Placed
+1465,Student_465,CSE-DS,5.78,85.79,87,8,Yes,Not Placed
+1466,Student_466,CSE-DS,5.91,95.45,34,10,Yes,Placed
+1467,Student_467,CSE-DS,9.31,58.98,34,6,Yes,Not Placed
+1468,Student_468,ECE,9.73,61.88,37,7,Yes,Placed
+1469,Student_469,CSE,6.87,98.57,93,6,No,Placed
+1470,Student_470,IT,6.35,59.05,39,9,No,Placed
+1471,Student_471,CSE-DS,8.22,92.72,67,3,Yes,Placed
+1472,Student_472,EEE,7.04,74.61,37,3,Yes,Not Placed
+1473,Student_473,CSE-DS,5.13,62.36,54,3,Yes,Placed
+1474,Student_474,EEE,5.78,93.54,95,10,No,Placed
+1475,Student_475,ECE,8.58,72.27,79,3,No,Not Placed
+1476,Student_476,EEE,8.29,75.74,96,9,Yes,Placed
+1477,Student_477,IT,5.14,67.96,78,4,Yes,Placed
+1478,Student_478,CSE,6.11,79.65,65,7,No,Placed
+1479,Student_479,EEE,6.16,58.18,97,9,Yes,Placed
+1480,Student_480,EEE,8.36,69.55,70,7,Yes,Placed
+1481,Student_481,CSE,5.1,98.47,91,9,No,Not Placed
+1482,Student_482,IT,5.52,62.91,39,3,Yes,Placed
+1483,Student_483,CSE-DS,9.0,82.84,50,4,No,Placed
+1484,Student_484,EEE,5.89,66.26,65,8,Yes,Not Placed
+1485,Student_485,CSE,8.26,88.67,41,6,Yes,Not Placed
+1486,Student_486,ECE,6.19,56.54,31,5,No,Placed
+1487,Student_487,CSE,5.5,98.49,42,4,No,Placed
+1488,Student_488,ECE,6.22,72.69,82,8,Yes,Placed
+1489,Student_489,IT,8.61,61.8,61,1,No,Placed
+1490,Student_490,CSE-DS,9.28,53.67,45,9,Yes,Placed
+1491,Student_491,CSE,9.15,58.49,61,1,Yes,Placed
+1492,Student_492,EEE,6.99,75.99,61,8,No,Not Placed
+1493,Student_493,IT,8.34,66.85,40,4,Yes,Placed
+1494,Student_494,CSE,6.02,91.44,39,9,Yes,Not Placed
+1495,Student_495,EEE,6.47,71.54,44,5,No,Placed
+1496,Student_496,CSE,9.48,62.44,46,3,No,Not Placed
+1497,Student_497,ECE,5.07,80.86,69,9,Yes,Placed
+1498,Student_498,CSE,5.43,85.34,47,9,No,Not Placed
+1499,Student_499,CSE,6.04,58.35,84,4,No,Placed
+1500,Student_500,CSE,5.13,58.38,54,4,No,Placed
